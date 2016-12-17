@@ -1,3 +1,3 @@
-* brainfucker
+# brainfucker
 
 It's brainfuck.

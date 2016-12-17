@@ -3,3 +3,4 @@ currentCommandLocation = 0
 currentCommand = ''
 cells = []
 pointer = 0
+
